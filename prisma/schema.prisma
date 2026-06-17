@@ -323,6 +323,7 @@ enum DataSource {
   GOOGLE_SHEETS
   MANUAL
   RAPID_API
+  STOCK_API
   YAHOO
 }
 
